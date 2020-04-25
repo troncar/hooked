@@ -1,2 +1,2 @@
-export const KEY_API = 'd931ee08';
+export const KEY_API = '[KEY_HERE]';
 
